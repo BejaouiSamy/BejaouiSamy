@@ -3,7 +3,7 @@ Yo, I’m a coder with a passion for coding (?). Here, you'll find my chaotic jo
 
 ![MF_doom](giphy.gif)
 
-## About Me:
+### About Me:
 - 🔥 Coder, hip-hop head, and meme enthusiast.
 - 🎤 MF Doom is my programming soundtrack.
 - 💻 Building stuff, breaking things, and learning on the go.
