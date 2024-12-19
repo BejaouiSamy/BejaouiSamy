@@ -16,4 +16,6 @@ Yo, I’m a coder with a passion for coding (?). Here, you'll find my chaotic jo
 - Collaboration: If you wanna join the madness or just throw a shoutout, hit me up.
 - And, of course, memes. Because if you don't laugh while coding, you’re doing it wrong.
 
-So, if you're ready to vibe to some heavy beats while hacking away, stick around and let's build some chaos. HAHAHAHA 💥🔧
+So, if you're ready to vibe to some heavy beats while hacking away, stick around and let's build some chaos. 💥🔧
+
+<img src="doom_laugh.gif" width="300" height="200" />
