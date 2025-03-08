@@ -11,7 +11,7 @@ Yo, I’m a coder with a passion for coding (?). Here, you'll find my chaotic jo
 
 ### What can you expect here?
 
-- Projects that are as unpredictable as a South Park plot twist. (Libft? Yeah, we’ve got that.)
+- Projects that are as unpredictable as a South Park plot twist.
 - Random, possibly genius, code snippets made with the precision of MF Doom's bars.
 - Collaboration: If you wanna join the madness or just throw a shoutout, hit me up.
 - And, of course, memes. Because if you don't laugh while coding, you’re doing it wrong.
